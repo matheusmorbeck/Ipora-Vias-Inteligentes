@@ -23,11 +23,8 @@ Google Gemini (Modo Flash e Thinking)
 
 ### Interação 3
 **Prompt:** Foi pedido: "me explique como fazer checkbox no figma utilizando componentes e variantes através de um texto direto".
-**Resultado:** Gerou uma nova imagem no formato que pedimos e com cores mais básicas. 
-**O que fizemos:** Utilizamos como logo do site.
-
-RESPOSTA_IA_CB.md
-
+**Resultado:** Para ver o resultado exato: [RESPOSTA_IA_CB.md](./RESPOSTA_IA_CB.md). 
+**O que fizemos:** Seguimos os passos e adicionamos as checkbox com responsividade
 
 ## Reflexão crítica
 * A IA apresentou informações incorretas, imprecisas ou superficiais em algum momento? Se sim, como vocês perceberam e como lidaram com isso?
