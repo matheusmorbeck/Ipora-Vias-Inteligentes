@@ -1,17 +1,33 @@
 # Registro de Uso de Inteligência Artificial
 
-**Projeto:** [Nome do Projeto] **Grupo:** [Nome do Grupo] **Disciplina:** IAUC — IF Goiano Campus Iporá — 2026/1
+**Projeto:** Iporá: Vias-Inteligentes **Grupo:** Grupo 4 **Disciplina:** IAUC — IF Goiano Campus Iporá — 2026/1
 
 ## Ferramentas utilizadas
-- [Ferramenta 1] - [Ferramenta 2 — ou "Nenhuma"]
+Google Gemini (Modo Flash e Thinking)
+
 ## Etapas em que a IA foi utilizada
-[Descreva as etapas ou escreva "A IA não foi utilizada neste projeto."]
+- Desenvolvimento da Logo do site;
+- Desenvolvimento No-Code no Figma (apenas para tirar dúvidas de como usar o Figma)
+
 ## Principais prompts e resultados
 
 ### Interação 1
-**Prompt:** [O que vocês perguntaram/pediram] **Resultado:** [Resumo do que a IA gerou] **O que fizemos:** [Usamos, adaptamos ou descartamos? Por quê?]
+**Prompt:** Foi enviado a proposta em PDF desenvolvida no projeto sobre Pensamento Computacional e foi pedido: "elabore um logo para um site com essa proposta".
+**Resultado:** Gerou apenas uma imagem que não gostamos por ter ficado em formato triangular e simulando uma imagem aberta em uma nova aba de um navegador.
+**O que fizemos:** Descartamos e pedimos outra, pois não gostamos do formato e nem das cores.
+
 ### Interação 2
-...
+**Prompt:** Foi pedido: "só o logo, em forma retangular e mais basico".
+**Resultado:** Gerou uma nova imagem no formato que pedimos e com cores mais básicas.
+**O que fizemos:** Utilizamos como logo do site.
+
+### Interação 3
+**Prompt:** Foi pedido: "me explique como fazer checkbox no figma utilizando componentes e variantes através de um texto direto".
+**Resultado:** Gerou uma nova imagem no formato que pedimos e com cores mais básicas.
+**O que fizemos:** Utilizamos como logo do site.
 
 ## Reflexão crítica
-[Texto de reflexão do grupo — mínimo 1 parágrafo por pergunta orientadora]
+* A IA apresentou informações incorretas, imprecisas ou superficiais em algum momento? Se sim, como vocês perceberam e como lidaram com isso?
+* O que a IA não foi capaz de fazer que vocês tiveram que resolver por conta própria?
+* O uso da IA ajudou ou atrapalhou o aprendizado da equipe? Por quê?
+* Se fosse repetir o projeto, como usariam a IA de forma diferente?
