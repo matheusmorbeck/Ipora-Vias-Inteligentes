@@ -34,4 +34,4 @@ Google Gemini (Modo Flash e Thinking)
 ### O uso da IA ajudou ou atrapalhou o aprendizado da equipe? Por quê?
 - O uso de inteligência artificial(IA) ajudou no processo de aprendizagem devido suas capacidades de rapidamente responder dúvidas com um simples prompt de comando e permitir que focassemos na parte técnica ao invés da visual. Ou seja, ao invés de termos que gastar tempo criando um design podemos concentrar em aprender a como realizar o projeto em sí em suas partes mais essenciais.
 ### Se fosse repetir o projeto, como usariam a IA de forma diferente?
-- abc
+-  Se ocorresse de nós termos que recriar o projeto, de criar um site no code, não vemos formas diferentes de usar a IA além do uso para criar imagem ou no ensino de como usar algumas das funcionalidades no Figma, mas talvez nós poderiamos usar a própria IA do Figma para  facilitar ou acelerar o processo de criar o site, usando-a em coisas como fazer um check box ou um menu de hambúrguer.
