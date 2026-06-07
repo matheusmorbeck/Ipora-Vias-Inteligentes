@@ -28,7 +28,8 @@ Google Gemini (Modo Flash e Thinking)
 
 ## Reflexão crítica
 ### A IA apresentou informações incorretas, imprecisas ou superficiais em algum momento? Se sim, como vocês perceberam e como lidaram com isso?
-###O que a IA não foi capaz de fazer que vocês tiveram que resolver por conta própria?
-###O uso da IA ajudou ou atrapalhou o aprendizado da equipe? Por quê?
+### O que a IA não foi capaz de fazer que vocês tiveram que resolver por conta própria?
+- A inteligência artificial (IA) não foi capaz de entender alguns prompts de comando relacionado de como usar ou acessar algumas ferramentas do figma, então tivemos que pesquisar ou ver vídeos do próprio site do figma ou youtube para para compreender o uso e as vezes o direcionamento da interface para acessar essas ferramentas.
+### O uso da IA ajudou ou atrapalhou o aprendizado da equipe? Por quê?
 - O uso de inteligência artificial(IA) ajudou no processo de aprendizagem devido suas capacidades de rapidamente responder dúvidas com um simples prompt de comando e permitir que focassemos na parte técnica ao invés da visual. Ou seja, ao invés de termos que gastar tempo criando um design podemos concentrar em aprender a como realizar o projeto em sí em suas partes mais essenciais.
 ### Se fosse repetir o projeto, como usariam a IA de forma diferente?
