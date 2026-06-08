@@ -28,7 +28,7 @@ Google Gemini (Modo Flash e Thinking)
 
 ## Reflexão crítica
 ### A IA apresentou informações incorretas, imprecisas ou superficiais em algum momento? Se sim, como vocês perceberam e como lidaram com isso?
-- abc
+- Não, ela não apresentou nenhuma informação correta, apenas desatualizada e imprecisa com o que foi pedido na questão de design, na parte do design, apenas descrevemos melhor e pedimos para refazer e deu certo, mas na parte da informação desatualizada, nós desconsideramos a resposta e fomos atrás de um tutorial no Youtube que fosse feito em uma versão mais recente do Figma e acabou funcionando melhor que na resposta da IA.
 ### O que a IA não foi capaz de fazer que vocês tiveram que resolver por conta própria?
 - A inteligência artificial (IA) não foi capaz de entender alguns prompts de comando relacionado de como usar ou acessar algumas ferramentas do figma, então tivemos que pesquisar ou ver vídeos do próprio site do figma ou youtube para para compreender o uso e as vezes o direcionamento da interface para acessar essas ferramentas.
 ### O uso da IA ajudou ou atrapalhou o aprendizado da equipe? Por quê?
